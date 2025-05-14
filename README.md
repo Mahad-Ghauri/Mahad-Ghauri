@@ -36,10 +36,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahad-Ghauri&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahad-Ghauri&show_icons=true&count_private=true&theme=radical&hide_border=false" width="48%" alt="Mahad's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahad-Ghauri&layout=compact&theme=radical&hide_border=false&langs_count=6" width="40%" alt="Mahad's Top Languages" />
 </div>
