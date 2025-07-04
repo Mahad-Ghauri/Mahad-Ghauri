@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F73283&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mahad+Ghauri;Full+Stack+Developer;Mobile+App+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV6c2FwZTEyMTQydzhzOTRmZTllZGhvbDJsNHVjZGJ5cjF2OXA3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV6c2FwZTEyMTQydzhzOTRmZTllZGhvbDJsNHVjZGJ5cjF2OXA3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 💫 About Me
 - 🔭 I'm currently working on **advancing my Flutter and web skills**
