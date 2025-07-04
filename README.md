@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 - 🔭 I'm currently working on **advancing my Flutter and web skills**
-- 🌱 I'm learning **Cloud Architecture and Advanced Mobile Development**
+- 🌱 I'm learning **Artifical Intelligence and Machine Learining**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **Flutter, Firebase, C#, and Full Stack Development**
 - ⚡ Fun fact: **I debug code better after midnight!**
