@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Mahad+Ghauri;Full+Stack+Developer+%7C+Mobile+App+Developer;Problem+Solver+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=fff&animation=twinkling" />
-</div>
-
-<img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV6c2FwZTEyMTQydzhzOTRmZTllZGhvbDJsNHVjZGJ5cjF2OXA3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🚀 About Me
 
