@@ -8,31 +8,6 @@ Here’s an enhanced version of your GitHub profile README with refined text, cl
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=fff&animation=twinkling" />
-</div>
-
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-## 🚀 About Me
-
-I'm a passionate **Full Stack Developer** and **Mobile App Developer**, enthusiastic about building impactful, scalable apps. I thrive on solving real-world problems with elegant code and powerful UI/UX.
-
-- 🔭 **Current Focus**: Flutter & Full Stack Web Development
-- 🤖 **Exploring**: AI & Machine Learning
-- 🤝 **Open to Collaborate on**: Open-source & innovative ideas
-- 💬 **Ask Me About**: Flutter, Firebase, .NET, C#, and Mobile Architecture
-- 🎯 **Mission**: Build meaningful solutions that make life better
-- ⚡ **Fun Fact**: Best code = post-midnight debug + caffeine + lo-fi beats
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
