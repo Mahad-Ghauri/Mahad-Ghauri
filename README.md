@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **Mobile App Developer** with a love for creating innovative solutions. I believe in the power of technology to solve real-world problems and make life easier for everyone.
+Cuurently moving towards Artifical Intelligence and Machine Learning. Howeveer, I'm a passionate **Full Stack Developer** and **Mobile App Developer** with a love for creating innovative solutions. I believe in the power of technology to solve real-world problems and make life easier for everyone.
 
 - 🔭 **Currently working on**: Advancing my Flutter and web development skills
 - 🌱 **Learning**: Artificial Intelligence and Machine Learning
